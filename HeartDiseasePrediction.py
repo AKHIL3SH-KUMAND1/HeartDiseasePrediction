@@ -17,7 +17,7 @@ warnings.filterwarnings("ignore")
 
 
 # loading the data to a pandas data frame
-heart_data = pd.read_csv('C:/Users/Akhilesh/OneDrive/Desktop/heart_disease_data.csv')
+heart_data = pd.read_csv('heart_disease_data.csv')
 
 
 # In[9]:
